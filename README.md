@@ -212,18 +212,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Mozilla Common Voice for open datasets
-- OpenAI's contributions to speech recognition
 - Streamlit team for the amazing web framework
 - LibriSpeech corpus for training data
 
 ## 📞 Support
 
 For questions, issues, or contributions:
-- 📧 Email: [your-email@example.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/speaker-recognition-system/issues)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/speaker-recognition-system/wiki)
+- 📧 Email: ayaanusmani2005@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/ayaan-there/speaker-recognition-system/issues)
+- 📖 Documentation: [Wiki](https://github.com/ayaan-there/speaker-recognition-system/wiki)
 
 ---
-
+**Made by Ayaan ❤️**
 ⭐ **Star this repo if you found it helpful!** ⭐
