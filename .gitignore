@@ -1,0 +1,130 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# VS Code
+.vscode/
+
+# Data, models, and temp files
+*.wav
+*.mp3
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+*.npy
+*.npz
+*.csv
+*.tsv
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+models/
+temp/
+data/
+
+# Audio formats
+*.flac
+*.ogg
+*.m4a
+*.aac
+*.wma
+*.aiff
+*.au
+
+# Dataset archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Streamlit cache
+.streamlit/
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Exclude large datasets and corpora
+cv-corpus-*/
+librispeech*/
+commonvoice*/
+datasets/
+corpus/
+
+# Jupyter notebooks with outputs
+*-checkpoint.ipynb
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+
+# Large model files
+*.pth
+*.bin
+*.safetensors
+*.onnx
